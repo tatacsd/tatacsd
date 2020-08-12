@@ -13,6 +13,7 @@
     <ul>
         <li>HTML (Intermediate)</li>
         <li>CSS (Intermediate)</li>
+        <li>JavaScript (Beginner) </li>
     </ul>
 
 <h2>Dev Objectives 📈</h2>
