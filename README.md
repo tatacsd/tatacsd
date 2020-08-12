@@ -10,7 +10,6 @@
 
 <h2>Dev knowledge 📚</h2>
 <p>Im currently learning:</p>
-    <br>
     <ul>
         <li>HTML (Intermediate)</li>
         <li>CSS (Intermediate)</li>
