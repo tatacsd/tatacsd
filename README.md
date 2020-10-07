@@ -14,13 +14,18 @@
         <li>HTML (Intermediate)</li>
         <li>CSS (Intermediate)</li>
         <li>JavaScript (Beginner) </li>
+        <li> C#</li>
     </ul>
+      
+  
 
 <h2>Dev Objectives 📈</h2>
 <p>
   My major goal is becoming a full-stack web developer and a mobile developer.
 </p>
 
+
+ 📫 How to reach me: developer.thays@gmail.com
 
 <!--
 **tatacsd/tatacsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,7 +37,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+-
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
