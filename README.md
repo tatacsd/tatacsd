@@ -14,7 +14,8 @@
         <li>HTML (Intermediate)</li>
         <li>CSS (Intermediate)</li>
         <li>JavaScript (Beginner) </li>
-        <li> C#</li>
+        <li>C#</li>
+        <li>Java</li>
     </ul>
       
   
