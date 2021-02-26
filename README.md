@@ -27,7 +27,10 @@
 
 
  📫 How to reach me: developer.thays@gmail.com
-
+<p align="center">
+        <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatacsd&hide=html&layout=compact&theme=dracula" />
+        <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=tatacsd&theme=dracula"/>
+</p><br>
 <!--
 **tatacsd/tatacsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
