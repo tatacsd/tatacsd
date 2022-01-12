@@ -13,7 +13,8 @@
     <ul>
         <li>HTML (Intermediate)</li>
         <li>CSS (Intermediate)</li>
-        <li>JavaScript (Beginner) </li>
+        <li>JavaScript (Intermediate) </li>
+        <li>Typescript/React Js </li>
         <li>C#</li>
         <li>Java</li>
     </ul>
