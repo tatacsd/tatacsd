@@ -16,7 +16,9 @@
         <li>JavaScript (Intermediate) </li>
         <li>Typescript/React Js </li>
         <li>C#</li>
+        <li>C++</li>
         <li>Java</li>
+        <li>Unreal Engine</li>
     </ul>
       
   
