@@ -11,10 +11,11 @@
 <h2>Dev knowledge 📚</h2>
 <p>Im currently learning:</p>
     <ul>
-        <li>HTML (Intermediate)</li>
-        <li>CSS (Intermediate)</li>
-        <li>JavaScript (Intermediate) </li>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript </li>
         <li>Typescript/React Js </li>
+        <li>Node js </li>
         <li>C#</li>
         <li>C++</li>
         <li>Java</li>
