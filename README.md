@@ -1,6 +1,11 @@
 
 <h1 align="center">Hi there 👋</h1>
+<div align="center">
+<img src="https://visitor-badge.glitch.me/badge?page_id=tatacsd.visitor-badge&left_color=red&right_color=black" />
+ </div>
+
 <h2>Who I am 🖐🏻🤷‍♀️</h2>
+
 <p>
   My name is Thays. I am a Brazilian lawyer who is passionate about technology
   and decided to start a new career pathway. I have always been inquisitive
@@ -54,4 +59,5 @@ Here are some ideas to get you started:
 -
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img alingn="center" src="https://profile-counter.glitch.me/tatacsd/count.svg"/> 
 -->
