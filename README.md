@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi there 👋</h1>
 <div align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=tatacsd.visitor-badge&left_color=red&right_color=black" />
 ![](https://komarev.com/ghpvc?username=tatacsd)
  </div>
  
