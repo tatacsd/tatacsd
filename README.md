@@ -35,10 +35,19 @@
   My major goal is becoming a full-stack web developer and a mobile developer.
 </p>
 
+<!--Trophies Section-->   
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/tatacsd/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tatacsd&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
+  </a>
+</p>
+<br />
 
  📫 How to reach me: developer.thays@gmail.com |  <a href="https://www.linkedin.com/in/thayscasado/" target="_blank">
     linkedin
   </a>
+
 
  
   <br>
@@ -46,6 +55,9 @@
         <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatacsd&hide=html&layout=compact&theme=dracula" />
         <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=tatacsd&theme=dracula"/>
 </p><br>
+
+
+
 
 <!--
 **tatacsd/tatacsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
