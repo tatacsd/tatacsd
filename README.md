@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there 👋</h1>
 <div align="center">
-![](https://komarev.com/ghpvc?username=tatacsd)
+![](https://komarev.com/ghpvc/?username=tatacsd)
  </div>
  
 
