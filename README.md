@@ -13,22 +13,6 @@
   a new path.
 </p>
 
-<h2>Dev knowledge 📚</h2>
-<p>Im currently learning:</p>
-    <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JavaScript </li>
-        <li>Typescript/React Js </li>
-        <li>Node js </li>
-        <li>C#</li>
-        <li>C++</li>
-        <li>Java</li>
-        <li>Unreal Engine</li>
-    </ul>
-      
-  
-
 <h2>Dev Objectives 📈</h2>
 <p>
   My major goal is becoming a full-stack web developer and a mobile developer.
